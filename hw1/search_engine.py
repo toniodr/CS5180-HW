@@ -1,7 +1,7 @@
 #-------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Antonio Duran
+# FILENAME: search_engine.py
+# SPECIFICATION: 
 # FOR: CS 5180- Assignment #1
 # TIME SPENT: how long it took you to complete the assignment
 #-----------------------------------------------------------*/
